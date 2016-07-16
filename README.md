@@ -1,4 +1,4 @@
-# ask
+# questions
 
 An asking platform I've wanted to built - old and unmaintained
 
